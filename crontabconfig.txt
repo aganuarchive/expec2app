@@ -1,0 +1,2 @@
+*/5 * * * *  /home/ubuntu/expapp/execp1.sh >> /home/ubuntu/expapp/cro.log 2>&1
+* 10 * * *    /home/ubuntu/expbackup.sh 
